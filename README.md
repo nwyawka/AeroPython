@@ -7,11 +7,11 @@ The materials are distributed publicly and openly under a Creative Commons Attri
 
 ### List of notebooks:
 
-####0. Getting Started
+####1.0 Getting Started
 
 * [Quick Python Intro](http://nbviewer.ipython.org/urls/github.com/barbagroup/AeroPython/blob/master/lessons/00_Lesson00_QuickPythonIntro.ipynb)
 
-####Module 1. Building blocks of potential flow
+####Module 1. Building blocks of Potential Flow
 
 1. [Source & Sink](http://nbviewer.ipython.org/urls/github.com/barbagroup/AeroPython/blob/master/lessons/01_Lesson01_sourceSink.ipynb)
 2. [Source & Sink in a Freestream](http://nbviewer.ipython.org/urls/github.com/barbagroup/AeroPython/blob/master/lessons/02_Lesson02_sourceSinkFreestream.ipynb)
